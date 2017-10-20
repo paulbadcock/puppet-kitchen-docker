@@ -1,2 +1,1 @@
-# puppet-kitchen-docker
-CentOS container with test-kitchen, kitchen-puppet, kitchen-docker and Docker app for CI testing
+Please use [centos-ruby-dind](https://github.com/paulbadcock/centos-ruby-dind)
